@@ -158,9 +158,9 @@ namespace scoreBatch
             const string BaseUrl = "https://ussouthcentral.services.azureml.net/workspaces/cc18311c70ad4043a7e11c5b2160163c/services/f0044fef1bad4c399cdb35464ddf7e49/jobs";
 
             const string StorageAccountName = "storagefordemodfsrram"; // Replace this with your Azure Storage Account name
-            const string StorageAccountKey = "RUTukQbuykqb1LS1+3Az4rubAbuS/gY1N8b3nNvKg+HPdSW0TZtbk6PvCOyvQqNj8SOJvAYv7f/T+5icX+5/nQ=="; // Replace this with your Azure Storage Key
+            const string StorageAccountKey = "XXXX"; // Replace this with your Azure Storage Key
             const string StorageContainerName = "inputfiles"; // Replace this with your Azure Storage Container name
-            const string apiKey = "6y2Y0eXle9UajJaYIs9OTGj1OSqiGUXBsLAscYMtKunO835u1ZG4b14dyTC+tCeMaBuFnj7UxBNCrYtSSmbqDA=="; // Replace this with the API key for the web service
+            const string apiKey = "XXXXXXXX"; // Replace this with the API key for the web service
 
             // set a time out for polling status
             const int TimeOutInMilliseconds = 120 * 1000; // Set a timeout of 2 minutes
